@@ -1,4 +1,4 @@
-//longest common subsequence using recursion
+//longest common subsequence using dynamic programming 
 #include<iostream>
 #include<string>
 #include<algorithm>
